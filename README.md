@@ -2,7 +2,7 @@
 - 👀 İlgileniyorum: Yapay zeka, makine öğrenimi, görsel programlama, ve web/flutter uygulama geliştirme
 - 🌱 Şu anda öğreniyorum: Flutter ile Dart, C#, MySQL
 - 💞️ İşbirliği yapmak istiyorum: Yapay zeka, makine öğrenimi, görsel programlama, ve web/flutter uygulama geliştirme konularında
-- 📫 Bana nasıl ulaşılır: gunesnurcetin@gmail.com
+- 📫 Bana nasıl ulaşılır: gunesnurcetin1@gmail.com
 
 
 <!---
